@@ -1,13 +1,14 @@
 # Change Log
 All notable changes to the "urscript" extension will be documented in this file.
 
-Goto [urscript-extension](https://github.com/ahernguo/urscript-extension) for more details.
+Goto [urscript-extension](https://github.com/piyooshm/urscript-extension) for more details.
 
 ## `0.1.12` (14-Sep-2022)
 * BUGFIXES
   * Fix incorrect regex to catch method name ([#22](https://github.com/ahernguo/urscript-extension/issues/22))
 * FEATURE
   * Display parameters on hover ([#23](https://github.com/ahernguo/urscript-extension/issues/23))
+  * Add support for struct type
 
 ## `0.1.11` (12-May-2022)
 * FEATURE
