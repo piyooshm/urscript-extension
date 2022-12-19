@@ -1,5 +1,7 @@
 ## urscript-extension
 
+Forked from https://github.com/ahernguo/urscript-extension
+
 [繁體中文](README_zhTW.md)
 
 This is a Visual Studio Code extension that built for **[Universal Robots](https://www.universal-robots.com/)™ Script** language.
@@ -47,12 +49,12 @@ Please refer to [change logs](CHANGELOG.md) for detail changes.
 
 ## Installation
 
-You can download latest .vsix from [release page](https://github.com/ahernguo/urscript-extension/releases).
+You can download latest .vsix from [release page](https://github.com/piyooshm/urscript-extension/releases).
 
 Or to install the latest commits from `master` branch, compile it into the VSIX code and then side load it into VSCode.
 
 1.  `npm install -g vsce` to make sure you have vsce installed globally
-2.  `git clone https://github.com/ahernguo/urscript-extension` to clone the repo if you havent already done so
+2.  `git clone https://github.com/piyooshm/urscript-extension` to clone the repo if you havent already done so
 3.  `cd urscript-extension`
 4.  `npm install` to install dependencies if you havent already done so
 5.  `vsce package` to build the package. This will generate a file with extension vsix

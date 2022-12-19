@@ -47,12 +47,12 @@
 
 ## 安裝方式
 
-請於 [releases](https://github.com/ahernguo/urscript-extension/releases) 頁面下載最新的 .vsix 檔案，並安裝至 VSCode.
+請於 [releases](https://github.com/piyooshm/urscript-extension/releases) 頁面下載最新的 .vsix 檔案，並安裝至 VSCode.
 
 若想嘗試最新版的功能，須將此專案編譯為 VSIX 後載入。請於命令提示字元執行以下步驟：
 
 1.  `npm install -g vsce` 安裝 Visual Studio Code Extension Manager 至本機電腦
-2.  `git clone https://github.com/ahernguo/urscript-extension` 來將本套件下載至本機電腦
+2.  `git clone https://github.com/piyooshm/urscript-extension` 來將本套件下載至本機電腦
 3.  `cd urscript-extension` 切換當前目錄至下載的資料夾中
 4.  `npm install` 透過 Node.js 來安裝本套件所需的工具
 5.  `vsce package` 編譯本套件，將會產生 vsix 套件檔
